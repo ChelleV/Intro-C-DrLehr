@@ -1,0 +1,32 @@
+
+
+/* 
+ * File:   HelloWorld.cpp
+ * Author: Villalobos, Richelle
+ * 
+ * Created on February 21, 2016, 2:34 PM
+ */
+
+// system libraries 
+#include <iostream>
+using namespace std;
+//user libraries
+//global constant
+//function prototype
+
+//execution begins here!
+
+int main(int argc, char** argv) {
+    
+    //Declared variables
+    //Initialize variables
+    //Input values
+    //Map the input to the outputs
+    //Output the results
+      cout << "Hello World" << endl;
+    //Exit stage right
+
+
+    return 0;
+}
+
